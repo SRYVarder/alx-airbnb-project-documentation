@@ -1,3 +1,16 @@
+![Django](https://img.shields.io/badge/Django-4.2-092E20?logo=django)
+![DRF](https://img.shields.io/badge/DRF-3.15-red?logo=django-rest-framework)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-336791?logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-7-DC382D?logo=redis)
+![Celery](https://img.shields.io/badge/Celery-5.4-37814E?logo=celery)
+![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker)
+![Tests](https://img.shields.io/badge/Tests-12_Passed-brightgreen)
+![Status](https://img.shields.io/badge/Project-Production_Ready-success)
+
+
+
+
+
 # Requirements – Airbnb Clone Backend
 
 This document specifies technical and functional requirements for three core features: **Authentication**, **Property Management**, and **Booking**. A fourth section outlines **Payments** integration basics.
